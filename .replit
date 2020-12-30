@@ -1,3 +1,7 @@
 language = "bash"
 #run = "python mydemo.py"
-run = "python Beginner/1.py"
+#run = "python Beginner/1/1.py"
+#run = "python Beginner/1/1.2.py"
+#run = "python Beginner/1/1.3.py"
+#run = "python Beginner/1/1.4.py"
+run = "python Beginner/1/Day1-Band_Name_Generator.py"
