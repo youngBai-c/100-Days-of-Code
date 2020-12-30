@@ -1,0 +1,3 @@
+language = "bash"
+#run = "python mydemo.py"
+run = "python Beginner/1.py"
